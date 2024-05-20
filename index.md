@@ -14,3 +14,10 @@ int main() {
 }
 ```
 
+### Things I need to do today:
+- [ ] Go to the gym
+- [ ] Register for Discrete Math
+- [ ] Finish unpacking
+- [ ] Learn to touch type
+- [ ] Do a little of the Odin Project
+
